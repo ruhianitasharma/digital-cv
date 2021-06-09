@@ -1,10 +1,7 @@
 ## Personal Data
-**Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997
-
-**Phone:** +91 8288984593 
-
-**email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)
-
+**Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
+**Phone:** +91 8288984593  
+**email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)  
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
 
 
@@ -25,7 +22,10 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 ## Skills
 - Language Skills: Hindi, English and Marathi
-
+- Programming languages: Python, R, C++, matlab, LaTeX
+- Softwares: Weather research forecasting(WRF-Chem), ROOT-data analysis framework, Climate data operators(CDO), Igor-pro
+- Big-data: Experience of handling big satellite data-sets and data visualization
+- Trace gases: Hands-on experience in handling CO, NOx analyzers
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
