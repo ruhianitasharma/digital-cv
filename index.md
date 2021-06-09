@@ -1,14 +1,12 @@
-## Carriculam Vitae
+# Carriculam Vitae
 
 
-\section{Personal Data}
+## Personal Data
+*Place and Date of Birth:* Jalgaon, Maharastra, India | 8 February 1997
+Phone: & +91 8288984593 
+email: [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)
+Github:  [saurabh-annadate](https://github.com/saurabh-annadate])
 
-\begin{tabular}{rl}
-\textsc{Place and Date of Birth:} & Jalgaon, Maharastra, India  | 8 February 1997 \\
-\textsc{Phone:} & +91 8288984593 \\\
-\textsc{email:} & \href{mailto:saurabh.annadate9@gmail.com}{saurabh.annadate9@gmail.com}\\
-\textsc{Github:} & \href{https://github.com/saurabh-annadate}{saurabh-annadate}
-\end{tabular}
 
 \section{Education}
 
