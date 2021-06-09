@@ -1,7 +1,7 @@
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997
 
-**Phone:** & +91 8288984593 
+**Phone:** +91 8288984593 
 
 **email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)
 
@@ -9,20 +9,14 @@
 
 
 ## Education
-** Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)
-Cumulative Performance Index: 8.25/10.0
+- **Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)  
+   Cumulative Performance Index: 8.25/10.0
+
+- **March 2011 - April 2015:** Jawahar Navodaya Vidyalaya, Jalgaon  
+affiliated with the Central Board of Secondary Education (CBSE))
 
 
-\textsc{Mar 2013-} & \textsc{High School} \\ 
-\textsc{April 2015} & \textsc{Jawahar Navodaya Vidyalay,} Jalgaon \\ &
-\small{|affiliated with the Central Board of Secondary Education (CBSE))} \\ &
-|\small{Graduated class XII with graduating score of 83.4\%}  \\ & 
-|\small{Computer Science 92/100} \\ & \\
 
-\textsc{Feb 2013} & \textsc{Jawahar Navodaya Vidyalay,} Jalgaon \\  &
-\small{|affiliated with the Central Board of Secondary Education (CBSE).} \\ &
-|\small{Graduated class X with 9.8/10.0 CGPA.} \\ 
-\end{tabular}
 
 \section{Awards and Achievements}
 \begin{itemize}
