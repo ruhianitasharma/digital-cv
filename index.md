@@ -13,24 +13,19 @@
    Cumulative Performance Index: 8.25/10.0
 
 - **March 2011 - April 2015:** Jawahar Navodaya Vidyalaya, Jalgaon  
-affiliated with the Central Board of Secondary Education (CBSE))
+affiliated with the Central Board of Secondary Education (CBSE)
 
 
+## Awards and Achievements
 
+- Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
+from **Department of Science and Technology, Government of India (DST)**.
 
-\section{Awards and Achievements}
-\begin{itemize}
-\let\labelitemi\labelitemii
-\item Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) \textbf{Scheme for early attraction of talents for Science (SEATs)} scholarship
-from \textbf{Department of Science and Technology, Government of India (DST)}.
-\item Qualified Joint Entrance Examination – Advanced in 2016
-\end{itemize}
+- Qualified Joint Entrance Examination – Advanced in 2016
 
-\section{ Linguistic Skills}
-\begin{itemize}
-\let\labelitemi\labelitemii
- \item Language Skills: Hindi, English and Marathi
-\end{itemize}
+## Skills
+- Language Skills: Hindi, English and Marathi
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
