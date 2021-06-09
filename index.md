@@ -8,12 +8,10 @@
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
 
 
-##Education
-** Aug 2016 - May 2021: BS-MS Dual degree 
+## Education
+** Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)
+Cumulative Performance Index: 8.25/10.0
 
-\textsc{Aug 2016-} & \textsc{BS-MS Dual degree} \\
-\textsc{May 2021} & \textsc{Indian Institute} \textit{of} \textsc{Science Education} \textit{and} \textsc{Research}, Mohali \\ &
-|\small{Cumulative Performance Index: 8.25/10.0} \\ 
 
 \textsc{Mar 2013-} & \textsc{High School} \\ 
 \textsc{April 2015} & \textsc{Jawahar Navodaya Vidyalay,} Jalgaon \\ &
