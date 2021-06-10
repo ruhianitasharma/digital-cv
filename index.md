@@ -55,32 +55,19 @@ from **Department of Science and Technology, Government of India (DST)**.
 - Coursera ML project: Support Vector Machines with scikit-learn  
    Developed an SVM-based facial recognition model
  
- - Statistical physics: Implementation of Metropolis and Wolff algorithm on Ising model in python  
+- Statistical physics: Implementation of Metropolis and Wolff algorithm on Ising model in python  
   This project explores the Metropolis algorithm and its implementation on 2D Ising model in great detail. Monte-Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
  
- \textsc{Field-} & \textsc{Study of anthropogenic emissions and mitigation} \\ 
-\textsc{work} & \textsc{ effects of Happy seeder in rural India} \\ &
- \footnotesize{In this project I surveyed farmers to know the paddy residue burning practices in detail. I also gathered the information of usage of happy seeder and studied it's mitigating effects on climate change 
- }\\
+- Field-work: Study of anthropogenic emissions and mitigation effects of Happy seeder in rural India  
+ In this project I surveyed farmers to know the paddy residue burning practices in detail. I also gathered the information of usage of happy seeder and studied it's mitigating effects on climate change.
  
- \textsc{Data-} & \textsc{Employee Attrition analysis using data science techniques} \\ 
- \textsc{Science} &
- \footnotesize{ The aim of this project was to use the various classification algorithms to classify employees based on attrition. Learned various data visualization and manipulation techniques.
- }\href{https://github.com/saurabh-annadate/IBM-HR-Analytics-Employee-Attrition-Performance}{code} \\
+- Data Science: Employee Attrition analysis using data science techniques  
+ The aim of this project was to use the various classification algorithms to classify employees based on attrition. Learned various data visualization and manipulation techniques.[code](https://github.com/saurabh-annadate/IBM-HR-Analytics-Employee-Attrition-Performance)
 
- 
-  \textsc{Machine} & \textsc{Recognize handwritten numbers using Neural Network(Deep Learning)}\footnotesize{}\href{https://github.com/saurabh-annadate/Neural-network-from-scratch 
- } {code}  \\ 
- \textsc{Learning}&
-  \\
-  
-
-
-  \textsc{ } & \textsc{Recommender System based on user clickstream } \\ &
-
- \footnotesize{The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.
- }\href{https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream } {code} \\
- \end{tabular}
+- Machine Learning: 1. Recognize handwritten numbers using Neural Network(Deep Learning)  
+Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch)  
+2. Recommender System based on user clickstream  
+The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.[code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
 ### Markdown
 
