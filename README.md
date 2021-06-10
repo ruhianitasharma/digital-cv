@@ -1,4 +1,4 @@
-<img src="profile_picture.jpg" width="225.5" height="300" />
+#Curriculum Vitae
 
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
