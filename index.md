@@ -53,7 +53,7 @@ from **Department of Science and Technology, Government of India (DST)**.
 ## Course-work projects
 
 - Coursera ML project: Support Vector Machines with scikit-learn  
-   Developed an SVM-based facial recognition model
+   Developed an SVM-based facial recognition model [certificate](https://coursera.org/share/fc673f2599557e05a4c0871e53933ebd)
  
 - Statistical physics: Implementation of Metropolis and Wolff algorithm on Ising model in python  
   This project explores the Metropolis algorithm and its implementation on 2D Ising model in great detail. Monte-Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
@@ -70,34 +70,10 @@ Analysis of different layered neural networks with different activation function
 - Recommender System based on user clickstream  
 The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.[code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
-### Markdown
+## Conferences/Workshops attended
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. April 2021: Message Passing Interface(MPI) workshop, IISER Mohali
+2. Oct 2020: Vaishwik Vaighyanik(VAIBHAV) summit for climate change, India
+3. Oct 2019: Quantum Foundations, Technology and Applications QFTA-2019, IISER Mohali
+4. Jan 2017:Hands-on engineering machines workshop, Punjab Engineering College, Chandigarh 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saurabh-annadate/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
