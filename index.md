@@ -40,11 +40,47 @@ from **Department of Science and Technology, Government of India (DST)**.
  
  - **Summer 2019 :** Setting-up optical tweezers and make a photo-acoustic sensor using Febri-Perot cavity  
  Mentored by - Dr Sameer Biswas, IISER Mohali  
- My project was to develop a Fabri-Perot cavity based sensor which can detect small photo-acoustic vibrations. This can be used to monitor living cells.
+ In this project I developed a Fabri-Perot cavity based sensor which could detect small photo-acoustic vibrations. This can be used to monitor signals from living cells.
  
  - **Summer 2018 :** Optimization of RF waves using genetic algorithm  
   Mentored by - Dr Kavita Dorai, IISER Mohali  
   I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.
+
+
+## Publications
+1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021). RTEII: A new high-resolution (0.1° × 0.1°) road transport emission inventory for India of 74 speciated VOCs, CO, NOx, NH3, CH4, CO2, PM2.5 reveals massive overestimation of NOx and CO and missing nitromethane emissions by existing inventories. Atmospheric Environment-X _(under review)_
+
+## Course-work projects
+
+- Coursera ML project: Support Vector Machines with scikit-learn  
+   Developed an SVM-based facial recognition model
+ 
+ - Statistical physics: Implementation of Metropolis and Wolff algorithm on Ising model in python  
+  This project explores the Metropolis algorithm and its implementation on 2D Ising model in great detail. Monte-Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
+ 
+ \textsc{Field-} & \textsc{Study of anthropogenic emissions and mitigation} \\ 
+\textsc{work} & \textsc{ effects of Happy seeder in rural India} \\ &
+ \footnotesize{In this project I surveyed farmers to know the paddy residue burning practices in detail. I also gathered the information of usage of happy seeder and studied it's mitigating effects on climate change 
+ }\\
+ 
+ \textsc{Data-} & \textsc{Employee Attrition analysis using data science techniques} \\ 
+ \textsc{Science} &
+ \footnotesize{ The aim of this project was to use the various classification algorithms to classify employees based on attrition. Learned various data visualization and manipulation techniques.
+ }\href{https://github.com/saurabh-annadate/IBM-HR-Analytics-Employee-Attrition-Performance}{code} \\
+
+ 
+  \textsc{Machine} & \textsc{Recognize handwritten numbers using Neural Network(Deep Learning)}\footnotesize{}\href{https://github.com/saurabh-annadate/Neural-network-from-scratch 
+ } {code}  \\ 
+ \textsc{Learning}&
+  \\
+  
+
+
+  \textsc{ } & \textsc{Recommender System based on user clickstream } \\ &
+
+ \footnotesize{The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.
+ }\href{https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream } {code} \\
+ \end{tabular}
 
 ### Markdown
 
