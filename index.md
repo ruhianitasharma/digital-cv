@@ -31,21 +31,20 @@ from **Department of Science and Technology, Government of India (DST)**.
 - **MS Thesis :** A modelling study using WRF-Chem over north India with improved transport and waste burning emissions  
       Mentored by - Prof. Vinayak Sinha, IISER Mohali  
       
-   ``` Anthropogenic emissions can affect the local, regional, and global air quality and climate considerably. The road transport and waste burning sectors are the major contributors to anthropogenic emissions of India. In this work, we study road transport and open waste burning emissions using the WRF-Chem regional transport model. We incorporate new road transport and waste burning emission inventories over India in the WRF-Chem setup.```
+   Anthropogenic emissions can affect the local, regional, and global air quality and climate considerably. The road transport and waste burning sectors are the major contributors to anthropogenic emissions of India. In this work, we study road transport and open waste burning emissions using the WRF-Chem regional transport model. We incorporate new road transport and waste burning emission inventories over India in the WRF-Chem setup.
  
  
 - **Summer 2020 :** Study of the biogenic emissions using upadated tree cover in the MEGAN model  
       Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      
-      ```There are a lot of discrepancies in actual tree cover over India and the one MEGAN module uses to give the predictions. Trees significantly impact land-atmosphere feedbacks through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover by the improved one and studied the differences in isoprene emission, planetary boundary layer height, and temperature with the ground measurements and satellite data.```
+      There are a lot of discrepancies in actual tree cover over India and the one MEGAN module uses to give the predictions. Trees significantly impact land-atmosphere feedbacks through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover by the improved one and studied the differences in isoprene emission, planetary boundary layer height, and temperature with the ground measurements and satellite data.
  
  - **Summer 2019 :** Setting-up optical tweezers and make a photo-acoustic sensor using Febri-Perot cavity  
- Mentored by - Dr Sameer Biswas, IISER Mohali 
- ```My project was to develop a Fabri-Perot cavity based sensor which can detect small photo-acoustic vibrations. This can be used to monitor living cells.```
+ Mentored by - Dr Sameer Biswas, IISER Mohali  
+ My project was to develop a Fabri-Perot cavity based sensor which can detect small photo-acoustic vibrations. This can be used to monitor living cells.
  
  - **Summer 2018 :** Optimization of RF waves using genetic algorithm  
   Mentored by - Dr Kavita Dorai, IISER Mohali  
-  ```I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.```
+  I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.
 
 ### Markdown
 
