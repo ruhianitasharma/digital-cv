@@ -26,6 +26,26 @@ from **Department of Science and Technology, Government of India (DST)**.
 - Softwares: Weather research forecasting(WRF-Chem), ROOT-data analysis framework, Climate data operators(CDO), Igor-pro
 - Big-data: Experience of handling big satellite data-sets and data visualization
 - Trace gases: Hands-on experience in handling CO, NOx analyzers
+
+## Internships and Research Experience
+- **MS Thesis:** A modelling study using WRF-Chem over north India with improved transport and waste burning emissions  
+      Mentored by - Prof. Vinayak Sinha, IISER Mohali 
+      Anthropogenic emissions can affect the local, regional, and global air quality and climate considerably. The road transport and waste burning sectors are the major contributors to anthropogenic emissions of India. In this work, we study road transport and open waste burning emissions using the WRF-Chem regional transport model. We incorporate new road transport and waste burning emission inventories over India in the WRF-Chem setup.
+ 
+ \footnotesize{} \\
+ 
+ \textsc{Summer 2020} & \textsc{Study of the biogenic emissions using upadated tree cover in the MEGAN model.} \\ &
+ \textit{Mentored by} | \textbf{Prof. Vinayak Sinha}, \textsc{Indian Institute} \textit{of} \textsc{Science Education} \textit{and} $\;\;$ \textsc{Research}, Mohali \\ &
+ \footnotesize{There are a lot of discrepancies in actual tree cover over India and the one MEGAN module uses to give the predictions. Trees significantly impact land-atmosphere feedbacks through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover by the improved one and studied the differences in isoprene emission, planetary boundary layer height, and temperature with the ground measurements and satellite data.} \\
+ 
+  \textsc{Summer 2019} & \textsc{Setting-up optical tweezers and make a photo-acoustic sensor using Febri-Perot cavity } \\ &
+ \textit{Mentored by} | \textbf{Dr. Sameer Biswas}, \textsc{Indian Institute} \textit{of} \textsc{Science Education} \textit{and} $\;\;$ \textsc{Research}, Mohali \\ &
+ \footnotesize{My project was to develop a Fabri-Perot cavity based sensor which can detect small photo-acoustic vibrations. This can be used to monitor living cells.   } \\
+ 
+  \textsc{Summer 2018} & \textsc{Optimization of RF waves using genetic algorithm} \\ &
+ \textit{Mentored by} | \textbf{Dr. Kavita Dorai}, \textsc{Indian Institute} \textit{of} \textsc{Science Education} \textit{and} $\;\;$ \textsc{Research}, Mohali \\ &
+ \footnotesize{I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.} \\
+\end{tabular}
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
