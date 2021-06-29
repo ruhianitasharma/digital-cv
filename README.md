@@ -9,7 +9,7 @@
 
 ## Education
 - **Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)  
-   Cumulative Performance Index: 8.25/10.0
+   Cumulative Performance Index: 8.23/10.0
 
 - **March 2011 - April 2015:** Jawahar Navodaya Vidyalaya, Jalgaon  
 affiliated with the Central Board of Secondary Education (CBSE)
@@ -50,7 +50,7 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 
 ## Publications
-1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021). RTEII: A new high-resolution (0.1° × 0.1°) road transport emission inventory for India of 74 speciated VOCs, CO, NOx, NH3, CH4, CO2, PM2.5 reveals massive overestimation of NOx and CO and missing nitromethane emissions by existing inventories. Atmospheric Environment-X _(under review)_
+1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118.[find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
 
 ## Course-work projects
 
