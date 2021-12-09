@@ -1,56 +1,47 @@
 # Curriculum Vitae
 
 ## Personal Data
-**Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
-**Phone:** +91 8288984593  
+**Place and Date of Birth:** Jammu, Jammu and Kashmir, India | 21 February 1987  
+**Phone:** +91 9779289273  
 **email:** [anitasharma8787@gmail.com](anitasharma8787@gmail.com)  
-**Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
+**Github:**  [anita sharma](https://github.com/anita-sharma])
 
 
 ## Education
-- **Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)  
-   Cumulative Performance Index: 8.23/10.0
-
-- **March 2011 - April 2015:** Jawahar Navodaya Vidyalaya, Jalgaon  
-affiliated with the Central Board of Secondary Education (CBSE)
-
+- **Aug 2012 - Dec 2017:** PhD degree in Botany at [Panjab University](http://www.puchd.ac.in/.)  
 
 ## Awards and Achievements
 
-- Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
-from **Department of Science and Technology, Government of India (DST)**.
+- 2012-2017: UGC-BSR Meritorious fellowship.
+- 2015: Young scientist award in 2nd International conference of Agriculture, Horticulture and Plant Sciences.
+- 2017: Best paper award in 3rd International Conference on Recent Advances in Engineering Science and management.
+- 2020: IISER Mohali- Institute Post-doctoral fellowship.
 
-- Qualified Joint Entrance Examination – Advanced in 2016
+## Skills 
+- Expertise in Plant taxonomy and conducting field surveys for the assessment of floristic diversity.
+- Morpho-anatomical studies: Morphological specimen observations by scanning electron microscopy (SEM) and hand-cut anatomical section cuttings. 
+- Histological and cytological studies (cell cycle and cell division). 
+- Basic knowledge of various techniques (such as GC-MS, LC-MS, PTR-MS analysis) used for the identification of various plant metabolites (chemical profiling of plants by using various techniques) Stress physiology: Antioxidant enzymes and ROS generation various studies in plants.
+- Efficient in Meteorological Data analysis. 
+- Plant VOCs Emission- Both online and offline measurements using Proton transfer reaction mass spectrometer (PTR-MS).
+- Efficient in data analysis collected from different instruments such as Proton transfer reaction mass spectrometer (PTR-MS), Cavity ring-down spectrometer (CRDS), Decagon and Porometer. 
+- Expertise in Statistical analysis of data by using various software such as SPSS 16.0, Origin 6.0, SigmaPlot 8.0, GraphPad Prism 6, PAST 3 and IGOR Pro 6.37.  
+- Geospatial data analysis using Google Earth Engine and Image J software.
+- Hands-on experience in handling ozone analyzer and leaf porometer.
 
-## Skills
-- Language Skills: Hindi, English and Marathi
-- Programming languages: Python, R, C++, matlab, LaTeX
-- Softwares: Weather research forecasting(WRF-Chem), ROOT-data analysis framework, Climate data operators(CDO), Igor-pro
-- Big-data: Experience of handling big satellite data-sets and data visualization
-- Trace gases: Hands-on experience in handling CO, NOx analyzers
-
-## Internships and Research Experience
-- **MS Thesis :** A modelling study using WRF-Chem over north India with improved transport and waste burning emissions  
-      Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      
-   Anthropogenic emissions can affect the local, regional, and global air quality and climate considerably. The road transport and waste burning sectors are the major contributors to anthropogenic emissions of India. In this work, we study road transport and open waste burning emissions using the WRF-Chem regional transport model. We incorporate new road transport and waste burning emission inventories over India in the WRF-Chem setup.
- 
- 
-- **Summer 2020 :** Study of the biogenic emissions using upadated tree cover in the MEGAN model  
-      Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      There are a lot of discrepancies in actual tree cover over India and the one MEGAN module uses to give the predictions. Trees significantly impact land-atmosphere feedbacks through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover by the improved one and studied the differences in isoprene emission, planetary boundary layer height, and temperature with the ground measurements and satellite data.
- 
- - **Summer 2019 :** Setting-up optical tweezers and make a photo-acoustic sensor using Febri-Perot cavity  
- Mentored by - Dr Sameer Biswas, IISER Mohali  
- In this project I developed a Fabri-Perot cavity based sensor which could detect small photo-acoustic vibrations. This can be used to monitor signals from living cells.
- 
- - **Summer 2018 :** Optimization of RF waves using genetic algorithm  
-  Mentored by - Dr Kavita Dorai, IISER Mohali  
-  I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.
-
+## Teaching Experience or Students mentored/co-supervised
+- **During IISER PDF (2020-2021):** Guided summer 2020 internship student on the project topic entitled **Assessment of air pollution tolerance and pollution uptake of plants**
+- Co-supervised MS student project entitled **Establishing the relationship between stomatal O3 uptake, visible leaf damage and reactive oxygen stress on urban trees**
 
 ## Publications
-1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118.[find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
+1. **Sharma, A.**, Batish, D.R., Singh, H.P., Jaryan, V., Kohli, R.K. (2017). The impact of invasive Hyptis suaveolens on the floristic composition of the periurban ecosystems of Chandigarh, northwestern India. Flora Morphology, Distribution, Functional Ecology of Plants 233: 156-162. (IF: 2.1; Citations: 19).[find here](https://www.sciencedirect.com/science/article/pii/S0367253017331869?via%3Dihub.)
+2. . **Sharma. A.**, Singh, H.P., Batish, D.R. and Kohli, R.K. (2019). Chemical profiling, cytotoxicity and phytotoxicity of foliar volatiles of Hyptis suaveolens. Ecotoxicology and Environmental Safety 171: 863–870. (IF: 6.3; Citations: 23).
+3. Datta, S., **Sharma, A.**, Parkar, V., Hakkim, H., Kumar, A., Chauhan, A., Tomar, S.S. and Sinha, B. (2021). A new index to assess the air quality impact of urban tree plantation. Urban Climate, 40, p.100995 (IF: 5.73).
+4.  **Sharma, A.**, Batish, D.R., Sharma, A., Singh and H.P., Kaur, G. (2015). Chemical characterization and antioxidant activity of essential oil from the aerial parts of Hyptis suaveolens (L.) Poit. International Journal of Tropical Agriculture 4: 3205-3213. (Citations: 3).
+5. **Sharma, A.**, Sharma, A. and Batish, D.R. (2017). Comparative antioxidant activity of Hyptis suaveolens before and after hydrodistillation. International Journal of Advance Research in Science and Engineering 6: 1312-1322.
+6.  **Sharma, A.**, Batish, D.R., Sharma, A. and Singh, H.P. (2015). Survey of some underutilized edible plants in outskirts areas of Chandigarh. International Journal of Biological Forum 7: 405-410. 
+7.   Fagodia, S.K., Batish, D.R., Singh, H.P., Kohli, R.K., **Sharma, A.** and Sharma, S. (2017). Comparative evaluation of herbicidal activity of Citrus aurantifolia Essential oil and Limonene towards some agricultural weeds. International Journal of Tropical Agriculture 35: 147-155. 
+8. Sharma, A., **Sharma A.**, Batish, D.R. and Dhaiya, S. (2021). Underutilized Wild Edible Plants and Their Importance. In: Significance of Indian Medicinal Plants and Mushroom. 1: 128-140. Krishna Publication House, Gujrat, India.
 
 ## Course-work projects
 
