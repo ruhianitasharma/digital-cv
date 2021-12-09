@@ -13,7 +13,7 @@
 ## Awards and Achievements
 
 - 2012-2017: UGC-BSR Meritorious fellowship.
-- 2015: Young scientist award in 2nd International conference of Agriculture, Horticulture and Plant Sciences.
+- 2015: Young scientist award in 2nd International Conference of Agriculture, Horticulture and Plant Sciences.
 - 2017: Best paper award in 3rd International Conference on Recent Advances in Engineering Science and management.
 - 2020: IISER Mohali- Institute Post-doctoral fellowship.
 
@@ -34,9 +34,9 @@
 - Co-supervised MS student project entitled **Establishing the relationship between stomatal O3 uptake, visible leaf damage and reactive oxygen stress on urban trees**
 
 ## Publications
-1. **Sharma, A.**, Batish, D.R., Singh, H.P., Jaryan, V., Kohli, R.K. (2017). The impact of invasive Hyptis suaveolens on the floristic composition of the periurban ecosystems of Chandigarh, northwestern India. Flora Morphology, Distribution, Functional Ecology of Plants 233: 156-162. (IF: 2.1; Citations: 19).[find here](https://www.sciencedirect.com/science/article/pii/S0367253017331869?via%3Dihub.)
-2. . **Sharma. A.**, Singh, H.P., Batish, D.R. and Kohli, R.K. (2019). Chemical profiling, cytotoxicity and phytotoxicity of foliar volatiles of Hyptis suaveolens. Ecotoxicology and Environmental Safety 171: 863–870. (IF: 6.3; Citations: 23).
-3. Datta, S., **Sharma, A.**, Parkar, V., Hakkim, H., Kumar, A., Chauhan, A., Tomar, S.S. and Sinha, B. (2021). A new index to assess the air quality impact of urban tree plantation. Urban Climate, 40, p.100995 (IF: 5.73).
+1. **Sharma, A.**, Batish, D.R., Singh, H.P., Jaryan, V., Kohli, R.K. (2017). The impact of invasive Hyptis suaveolens on the floristic composition of the periurban ecosystems of Chandigarh, northwestern India. Flora Morphology, Distribution, Functional Ecology of Plants 233: 156-162.[find here](https://www.sciencedirect.com/science/article/pii/S0367253017331869?via%3Dihub.)
+2. . **Sharma. A.**, Singh, H.P., Batish, D.R. and Kohli, R.K. (2019). Chemical profiling, cytotoxicity and phytotoxicity of foliar volatiles of Hyptis suaveolens. Ecotoxicology and Environmental Safety 171: 863–870.
+3. Datta, S., **Sharma, A.**, Parkar, V., Hakkim, H., Kumar, A., Chauhan, A., Tomar, S.S. and Sinha, B. (2021). A new index to assess the air quality impact of urban tree plantation. Urban Climate, 40, p.100995.
 4.  **Sharma, A.**, Batish, D.R., Sharma, A., Singh and H.P., Kaur, G. (2015). Chemical characterization and antioxidant activity of essential oil from the aerial parts of Hyptis suaveolens (L.) Poit. International Journal of Tropical Agriculture 4: 3205-3213. (Citations: 3).
 5. **Sharma, A.**, Sharma, A. and Batish, D.R. (2017). Comparative antioxidant activity of Hyptis suaveolens before and after hydrodistillation. International Journal of Advance Research in Science and Engineering 6: 1312-1322.
 6.  **Sharma, A.**, Batish, D.R., Sharma, A. and Singh, H.P. (2015). Survey of some underutilized edible plants in outskirts areas of Chandigarh. International Journal of Biological Forum 7: 405-410. 
