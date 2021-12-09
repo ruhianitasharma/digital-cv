@@ -3,7 +3,7 @@
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
 **Phone:** +91 8288984593  
-**email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)  
+**email:** [anitasharma8787@gmail.com](anitasharma8787@gmail.com)  
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
 
 
